@@ -1,10 +1,12 @@
 # nodejs
 ## How to run
+**bash or IDE terminal**
 - install dependencies from package.json
 ```
 npm install
 ```
-- run in localhost:3000
+- run 
 ```
 node index
 ```
+- open in browser localhost:3000
